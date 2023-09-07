@@ -34,7 +34,7 @@ Esse repositório se trata de estudos feitos em cima de um roadmap em JavaScript
 ```
 #
 
-**|** Para mudar de branch a cada vez que conclui um passo use o **git checkout** + L + número da lição + - + start **Ex: (L1-start)
+**|** *Para mudar de branch a cada vez que conclui um passo use o **git checkout** + L + número da lição + - + start* **Ex: (L1-start)** 
 
 ## Autores
 
