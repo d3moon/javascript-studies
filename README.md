@@ -32,9 +32,10 @@ Esse repositório se trata de estudos feitos em cima de um roadmap em JavaScript
 ```bash
     git checkout L1-end 
 ```
+#
 
+**|** Para mudar de branch a cada vez que conclui um passo use o **git checkout** + L + número da lição + - + start **Ex: (L1-start)
 
-*Para mudar de branch a cada vez que conclui um passo use o **git checkout** + L + número da lição + - + start **Ex: (L1-start)**
 ## Autores
 
 - [@d3moon](https://www.github.com/d3moon)
